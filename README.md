@@ -57,7 +57,7 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
 - **Description**: Contains 569 samples of breast tumor features, classified as either malignant (0) or benign (1).
 - **Features**: 30 numerical features such as `mean radius`, `mean texture`, `mean smoothness`, etc.
 - **Target Variable**: `target` (0 = malignant, 1 = benign)
-- 
+ 
 ## How to Run the Project
 
 1. **Clone the Repository**
@@ -94,43 +94,11 @@ The model demonstrates robust predictive performance, achieving:
 - **Accuracy**: ~95%
 - Effective separation between malignant and benign classes based on the provided features.
 
----
-
 ## Usage
 
 - **Medical Diagnosis**: Assists healthcare professionals in early detection of breast cancer.
 - **Educational**: Provides an example for learning machine learning techniques and applications in healthcare.
 - **Research**: Can be extended with other models or datasets for further experimentation.
-
----
-
-## Contributing
-
-We welcome contributions to improve this project! To contribute:
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Submit a pull request.
-
-For more details, see `CONTRIBUTING.md`.
-
----
-
-## License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-Feel free to explore, modify, and enhance the project. Your feedback is valuable! 
-
-
-
-
-
-
-
-
 
 
 
