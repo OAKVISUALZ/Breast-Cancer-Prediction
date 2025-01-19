@@ -18,16 +18,12 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
   - `Pandas` for data manipulation
   - `scikit-learn` for machine learning models and evaluation metrics
 
----
-
 ## Dataset Information
 
 - **Source**: The dataset is sourced from scikit-learn's built-in datasets.
 - **Description**: Contains 569 samples of breast tumor features, classified as either malignant (0) or benign (1).
 - **Features**: 30 numerical features such as `mean radius`, `mean texture`, `mean smoothness`, etc.
 - **Target Variable**: `target` (0 = malignant, 1 = benign)
-
----
 
 ## How to Run the Project
 
@@ -39,8 +35,6 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
 
 This project focuses on predicting breast cancer types (malignant or benign) using a logistic regression model. Leveraging a dataset from scikit-learn, it provides an end-to-end machine learning pipeline that includes data preprocessing, model training, evaluation, and insights into model performance. The primary goal is to assist early detection and diagnosis, improving patient outcomes.
 
----
-
 ## Features
 
 - **Data Loading**: Imports the breast cancer dataset from scikit-learn.
@@ -48,8 +42,6 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
 - **Model Training**: Implements logistic regression for classification.
 - **Evaluation**: Computes accuracy metrics to measure model performance.
 - **Results Visualization**: Includes summary statistics and performance metrics.
-
----
 
 ## Technologies and Tools Used
 
@@ -59,17 +51,13 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
   - `Pandas` for data manipulation
   - `scikit-learn` for machine learning models and evaluation metrics
 
----
-
 ## Dataset Information
 
 - **Source**: The dataset is sourced from scikit-learn's built-in datasets.
 - **Description**: Contains 569 samples of breast tumor features, classified as either malignant (0) or benign (1).
 - **Features**: 30 numerical features such as `mean radius`, `mean texture`, `mean smoothness`, etc.
 - **Target Variable**: `target` (0 = malignant, 1 = benign)
-
----
-
+- 
 ## How to Run the Project
 
 1. **Clone the Repository**
@@ -90,8 +78,6 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
    python breast_cancer_prediction.py
    ```
 
----
-
 ## Model Details
 
 - **Algorithm**: Logistic Regression
@@ -101,7 +87,6 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
   - **Confusion Matrix**: Includes true positives, false positives, true negatives, and false negatives.
   - **Precision and Recall**: High precision and recall indicate effective classification.
 
----
 
 ## Results
 
