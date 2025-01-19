@@ -1,7 +1,5 @@
 # Breast-Cancer-Prediction
 
-# Breast Cancer Prediction using Machine Learning
-
 This project focuses on predicting breast cancer types (malignant or benign) using a logistic regression model. Leveraging a dataset from scikit-learn, it provides an end-to-end machine learning pipeline that includes data preprocessing, model training, evaluation, and insights into model performance. The primary goal is to assist early detection and diagnosis, improving patient outcomes.
 
 ## Features
@@ -11,8 +9,6 @@ This project focuses on predicting breast cancer types (malignant or benign) usi
 - **Model Training**: Implements logistic regression for classification.
 - **Evaluation**: Computes accuracy metrics to measure model performance.
 - **Results Visualization**: Includes summary statistics and performance metrics.
-
----
 
 ## Technologies and Tools Used
 
